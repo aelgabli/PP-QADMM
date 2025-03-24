@@ -13,5 +13,7 @@ main_syntheticdata.m : runs a comparison between PPQADMM, and considered baselin
 
 sensitivity_analysis.m : Can be edited to generate results for different number of workers, values for $\rho$, and $\epsilon$.
 
+All pre-processed data files are compressed and uploaded in data.zip file
+
 
 
